@@ -1,0 +1,2 @@
+# FOG
+Računalništvo v megli
